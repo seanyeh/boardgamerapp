@@ -1,0 +1,386 @@
+$primary: white;
+$green: #3FE400;
+
+html {
+    height: 100%;
+
+    font-family: 'Catamaran', sans-serif;
+}
+
+div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    // https://stackoverflow.com/questions/826782/how-to-disable-text-selection-highlighting
+
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+
+    background-image: url("./../images/bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    color: $primary;
+
+    padding: 0;
+    margin: 0;
+}
+
+/*
+ * UNIVERSAL
+ */
+a {
+    text-decoration: none;
+    color: $primary;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin-top: 10px;
+}
+
+
+/* HEADER and FOOTER */
+
+$HEADER_HEIGHT: 30px;
+$HEADER_ICON_HEIGHT: 20px;
+
+$FOOTER_HEIGHT: 60px;
+$FOOTER_ICON_HEIGHT: 30px;
+
+div.header {
+    height: $HEADER_HEIGHT;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+
+    text-align: center;
+
+    display: flex;
+    // justify-content: space-evenly;
+
+    div.item {
+        height: 100%;
+        flex: 1 1 0;
+    }
+
+    span.caption {
+        display: inline-block;
+        height: $HEADER_HEIGHT;
+        line-height: $HEADER_HEIGHT;
+    }
+
+    svg {
+        height: $HEADER_ICON_HEIGHT;
+        margin-right: 5px;
+        margin-top: 3px;
+        vertical-align: top;
+    }
+}
+
+div.footer {
+    height: $FOOTER_HEIGHT;
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+    div.item {
+        padding-top: 5px;
+
+        .caption {
+            margin-top: 5px;
+        }
+    }
+
+    .icon {
+        height: $FOOTER_ICON_HEIGHT;
+        text-align: center;
+
+        > svg {
+            height: $FOOTER_ICON_HEIGHT;
+        }
+    }
+}
+
+div.item {
+    &:not(:first-child) {
+        border-left: 1px solid gray;
+    }
+
+    box-sizing: border-box;
+
+    cursor: pointer;
+
+    .caption {
+        text-align: center;
+    }
+
+    .caption.focus {
+        font-weight: bold;
+    }
+}
+
+
+/*
+ * Views
+ */
+
+// Dice
+.dice {
+    .container > div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    a {
+        display: block;
+        font-size: 2em;
+    }
+
+    // Coin
+    .coin {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        border-radius: 50%;
+        width: 200px;
+        height: 200px;
+
+        // Center
+        margin: 0 auto;
+
+        background-color: gray;
+
+        font-weight: bold;
+
+        font-size: 3em;
+
+        &.black { background-color: black; }
+        &.gray { background-color: gray; }
+    }
+}
+
+// Counter
+.counter {
+    $unit: 40px;
+
+    a {
+        display: inline-block;
+        height: 200px;
+        text-align: center;
+        line-height: 200px;
+
+        /* Change to image */
+        font-size: 5em;
+    }
+
+    span.count {
+        display: inline-block;
+        height: 200px;
+        text-align: center;
+        line-height: 200px;
+
+        font-size: 8em;
+    }
+
+    a.reset {
+        font-size: 2em;
+        height: 100px;
+        line-height: 100px;
+    }
+
+    div.player-row {
+        display: flex;
+        margin-top: 10px;
+        // border: 1px solid red;
+
+        justify-content: space-between;
+
+        input {
+            color: white;
+            background: transparent;
+            border: none;
+
+            min-width: 0;
+            font-size: 1.1em;
+
+            width: 2*$unit;
+
+            &.name {
+                padding-left: 10px;
+            }
+        }
+
+        > div {
+            display: flex;
+            // border: 1px solid red;
+
+            align-items: center;
+            justify-content: center;
+        }
+        > div svg {
+            height: 2em;
+        }
+
+
+        > div.remove > svg {
+            color: red;
+        }
+
+        // Where right-justification starts
+        > .right {
+            margin-left: auto;
+        }
+
+        > div, input {
+            // border: 1px solid pink;
+
+            box-sizing: border-box;
+        }
+
+        > div {
+            display: flex;
+            align-items: center;
+        }
+
+        > input.points {
+            border: 1px dotted gray;
+            text-align: center;
+        }
+
+
+        // SIZES
+        .unit {
+            width: $unit;
+        }
+
+        .unit2 {
+            width: 2*$unit;
+            text-align: center;
+        }
+
+        .unit4 {
+            width: 4*$unit;
+            text-align: center;
+        }
+    }
+
+    .add-player > svg {
+        color: $green;
+    }
+
+    .button {
+        border: 1px solid gray;
+        border-radius: 4px;
+        > svg {
+            font-size: 0.7em;
+        }
+    }
+
+    .plus5 { background-color: black; }
+    .minus5 { background-color: black; }
+    .reset-all { background-color: blue; }
+
+    span {
+        font-size: 1.5em;
+        margin-left: 5px;
+    }
+
+    .row2 {
+        padding-bottom: 5px;
+        border-bottom: 1px solid gray;
+    }
+
+}
+
+
+/*
+ * Notifications
+ */
+div.over > div {
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+
+    z-index: 9999;
+
+    background: transparent;
+    text-align: center;
+
+    animation: bounceIn 0.5s;
+    opacity: 0;
+
+    font-size: 50px;
+
+    color: black;
+
+    font-weight: bold;
+
+    // text outline
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+
+@keyframes bounceIn {
+    0% {
+        transform: scale(0.1);
+        opacity: 1;
+    }
+    20% {
+        transform: scale(1.5);
+        opacity: 1;
+    }
+    40% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+
+.b0 {
+    float: left;
+    width: 100%;
+}
+
+.b1 {
+    float: left;
+    width: 25%;
+}
+
+.b2 {
+    float: left;
+    width: 50%;
+}
+
+.b3 {
+    float: left;
+    width: 33%;
+}
+
+.b4 {
+    float: left;
+    width: 25%;
+}
+

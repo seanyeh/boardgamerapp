@@ -6,7 +6,7 @@ module.exports = {
         "./src/style.scss"
     ],
     output: {
-        path: __dirname + "/www",
+        path: __dirname,
         filename: "bundle.js"
     },
     module: {
@@ -53,6 +53,6 @@ module.exports = {
     },
 
     devServer: {
-        contentBase: "./www/"
+        contentBase: "./"
     }
 };

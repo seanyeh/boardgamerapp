@@ -1,56 +1,56 @@
 declare var require: any;
 
 let ICONS: any = {
-    "plus": require("./../images/plus-solid.svg"),
-    "minus": require("./../images/minus-solid.svg"),
-    "plus-circle": require("./../images/plus-circle-solid.svg"),
-    "minus-circle": require("./../images/minus-circle-solid.svg"),
+    "plus": require("./../assets/plus-solid.svg"),
+    "minus": require("./../assets/minus-solid.svg"),
+    "plus-circle": require("./../assets/plus-circle-solid.svg"),
+    "minus-circle": require("./../assets/minus-circle-solid.svg"),
 
-    "reset": require("./../images/redo-solid.svg"),
+    "reset": require("./../assets/redo-solid.svg"),
 
-    "remove": require("./../images/times-circle-solid.svg"),
+    "remove": require("./../assets/times-circle-solid.svg"),
 
 
     // Icons
 
-    "dice": require("./../images/dice-light.svg"),
-    "dice-focus": require("./../images/dice-solid.svg"),
+    "dice": require("./../assets/dice-light.svg"),
+    "dice-focus": require("./../assets/dice-solid.svg"),
 
-    "players": require("./../images/users-light.svg"),
-    "players-focus": require("./../images/users-solid.svg"),
+    "players": require("./../assets/users-light.svg"),
+    "players-focus": require("./../assets/users-solid.svg"),
 
-    "counter": require("./../images/abacus-light.svg"),
-    "counter-focus": require("./../images/abacus-solid.svg"),
+    "counter": require("./../assets/abacus-light.svg"),
+    "counter-focus": require("./../assets/abacus-solid.svg"),
 
     // Dice States
-    "random": require("./../images/calculator-light.svg"),
-    "random-focus": require("./../images/calculator-solid.svg"),
+    "random": require("./../assets/calculator-light.svg"),
+    "random-focus": require("./../assets/calculator-solid.svg"),
 
-    "coin": require("./../images/coins-light.svg"),
-    "coin-focus": require("./../images/coins-solid.svg"),
+    "coin": require("./../assets/coins-light.svg"),
+    "coin-focus": require("./../assets/coins-solid.svg"),
 
     // Counter States
-    "single": require("./../images/user-cog-light.svg"),
-    "single-focus": require("./../images/user-cog-solid.svg"),
+    "single": require("./../assets/user-cog-light.svg"),
+    "single-focus": require("./../assets/user-cog-solid.svg"),
 
-    "multiplayer": require("./../images/users-cog-light.svg"),
-    "multiplayer-focus": require("./../images/users-cog-solid.svg"),
+    "multiplayer": require("./../assets/users-cog-light.svg"),
+    "multiplayer-focus": require("./../assets/users-cog-solid.svg"),
 };
 
 let IMAGES: any = {
-    "white1": require("./../images/dieWhite1.png"),
-    "white2": require("./../images/dieWhite2.png"),
-    "white3": require("./../images/dieWhite3.png"),
-    "white4": require("./../images/dieWhite4.png"),
-    "white5": require("./../images/dieWhite5.png"),
-    "white6": require("./../images/dieWhite6.png"),
+    "white1": require("./../assets/dieWhite1.png"),
+    "white2": require("./../assets/dieWhite2.png"),
+    "white3": require("./../assets/dieWhite3.png"),
+    "white4": require("./../assets/dieWhite4.png"),
+    "white5": require("./../assets/dieWhite5.png"),
+    "white6": require("./../assets/dieWhite6.png"),
 
-    "red1": require("./../images/dieRed1.png"),
-    "red2": require("./../images/dieRed2.png"),
-    "red3": require("./../images/dieRed3.png"),
-    "red4": require("./../images/dieRed4.png"),
-    "red5": require("./../images/dieRed5.png"),
-    "red6": require("./../images/dieRed6.png"),
+    "red1": require("./../assets/dieRed1.png"),
+    "red2": require("./../assets/dieRed2.png"),
+    "red3": require("./../assets/dieRed3.png"),
+    "red4": require("./../assets/dieRed4.png"),
+    "red5": require("./../assets/dieRed5.png"),
+    "red6": require("./../assets/dieRed6.png"),
 }
 
 export class Assets {

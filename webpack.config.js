@@ -22,7 +22,7 @@ module.exports = {
                 use: ["style-loader", "css-loader"],
             },
             {
-                include: __dirname + "/images/",
+                include: __dirname + "/assets/",
                 test: /\.(jpe?g|png|gif)$/i,
                 use: [
                     'file-loader?hash=sha512&digest=hex&name=images/[hash].[ext]',
@@ -41,7 +41,7 @@ module.exports = {
                 exclude: /node_modules/
             },
             {
-                include: __dirname + "/images/",
+                include: __dirname + "/assets/",
                 test: /\.svg$/,
                 loader: 'svg-inline-loader'
             }

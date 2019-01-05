@@ -86,9 +86,9 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./images/abacus-light.svg":
+/***/ "./assets/abacus-light.svg":
 /*!*********************************!*\
-  !*** ./images/abacus-light.svg ***!
+  !*** ./assets/abacus-light.svg ***!
   \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -97,9 +97,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"abac
 
 /***/ }),
 
-/***/ "./images/abacus-solid.svg":
+/***/ "./assets/abacus-solid.svg":
 /*!*********************************!*\
-  !*** ./images/abacus-solid.svg ***!
+  !*** ./assets/abacus-solid.svg ***!
   \*********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -108,9 +108,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"abac
 
 /***/ }),
 
-/***/ "./images/calculator-light.svg":
+/***/ "./assets/calculator-light.svg":
 /*!*************************************!*\
-  !*** ./images/calculator-light.svg ***!
+  !*** ./assets/calculator-light.svg ***!
   \*************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -119,9 +119,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"calc
 
 /***/ }),
 
-/***/ "./images/calculator-solid.svg":
+/***/ "./assets/calculator-solid.svg":
 /*!*************************************!*\
-  !*** ./images/calculator-solid.svg ***!
+  !*** ./assets/calculator-solid.svg ***!
   \*************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -130,9 +130,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"calc
 
 /***/ }),
 
-/***/ "./images/coins-light.svg":
+/***/ "./assets/coins-light.svg":
 /*!********************************!*\
-  !*** ./images/coins-light.svg ***!
+  !*** ./assets/coins-light.svg ***!
   \********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -141,9 +141,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"coin
 
 /***/ }),
 
-/***/ "./images/coins-solid.svg":
+/***/ "./assets/coins-solid.svg":
 /*!********************************!*\
-  !*** ./images/coins-solid.svg ***!
+  !*** ./assets/coins-solid.svg ***!
   \********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -152,9 +152,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"coin
 
 /***/ }),
 
-/***/ "./images/dice-light.svg":
+/***/ "./assets/dice-light.svg":
 /*!*******************************!*\
-  !*** ./images/dice-light.svg ***!
+  !*** ./assets/dice-light.svg ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -163,9 +163,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"dice
 
 /***/ }),
 
-/***/ "./images/dice-solid.svg":
+/***/ "./assets/dice-solid.svg":
 /*!*******************************!*\
-  !*** ./images/dice-solid.svg ***!
+  !*** ./assets/dice-solid.svg ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -174,9 +174,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"dice
 
 /***/ }),
 
-/***/ "./images/dieRed1.png":
+/***/ "./assets/dieRed1.png":
 /*!****************************!*\
-  !*** ./images/dieRed1.png ***!
+  !*** ./assets/dieRed1.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -185,9 +185,9 @@ module.exports = __webpack_require__.p + "images/9994b07c760083d23ad5b4b1265592d
 
 /***/ }),
 
-/***/ "./images/dieRed2.png":
+/***/ "./assets/dieRed2.png":
 /*!****************************!*\
-  !*** ./images/dieRed2.png ***!
+  !*** ./assets/dieRed2.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -196,9 +196,9 @@ module.exports = __webpack_require__.p + "images/1b97ab1bf053640d2bc39e0b2179c33
 
 /***/ }),
 
-/***/ "./images/dieRed3.png":
+/***/ "./assets/dieRed3.png":
 /*!****************************!*\
-  !*** ./images/dieRed3.png ***!
+  !*** ./assets/dieRed3.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -207,9 +207,9 @@ module.exports = __webpack_require__.p + "images/c500b67fca0ab1845bbaef492b7ce34
 
 /***/ }),
 
-/***/ "./images/dieRed4.png":
+/***/ "./assets/dieRed4.png":
 /*!****************************!*\
-  !*** ./images/dieRed4.png ***!
+  !*** ./assets/dieRed4.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -218,9 +218,9 @@ module.exports = __webpack_require__.p + "images/d516ca1a8b634a8789df98e79d45ef2
 
 /***/ }),
 
-/***/ "./images/dieRed5.png":
+/***/ "./assets/dieRed5.png":
 /*!****************************!*\
-  !*** ./images/dieRed5.png ***!
+  !*** ./assets/dieRed5.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -229,9 +229,9 @@ module.exports = __webpack_require__.p + "images/79f342edbd060ef567a8b78d135474d
 
 /***/ }),
 
-/***/ "./images/dieRed6.png":
+/***/ "./assets/dieRed6.png":
 /*!****************************!*\
-  !*** ./images/dieRed6.png ***!
+  !*** ./assets/dieRed6.png ***!
   \****************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -240,9 +240,9 @@ module.exports = __webpack_require__.p + "images/6c2b3eb2554382db4844d2c5e3c9811
 
 /***/ }),
 
-/***/ "./images/dieWhite1.png":
+/***/ "./assets/dieWhite1.png":
 /*!******************************!*\
-  !*** ./images/dieWhite1.png ***!
+  !*** ./assets/dieWhite1.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -251,9 +251,9 @@ module.exports = __webpack_require__.p + "images/7949897d5d23674c09c229c8ae2f9f4
 
 /***/ }),
 
-/***/ "./images/dieWhite2.png":
+/***/ "./assets/dieWhite2.png":
 /*!******************************!*\
-  !*** ./images/dieWhite2.png ***!
+  !*** ./assets/dieWhite2.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -262,9 +262,9 @@ module.exports = __webpack_require__.p + "images/5776056d71db3a19ad848a87a085ced
 
 /***/ }),
 
-/***/ "./images/dieWhite3.png":
+/***/ "./assets/dieWhite3.png":
 /*!******************************!*\
-  !*** ./images/dieWhite3.png ***!
+  !*** ./assets/dieWhite3.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -273,9 +273,9 @@ module.exports = __webpack_require__.p + "images/2887f7fabc04b54f069ca8c491ac91e
 
 /***/ }),
 
-/***/ "./images/dieWhite4.png":
+/***/ "./assets/dieWhite4.png":
 /*!******************************!*\
-  !*** ./images/dieWhite4.png ***!
+  !*** ./assets/dieWhite4.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -284,9 +284,9 @@ module.exports = __webpack_require__.p + "images/cbf874b9739754abd86cdcf013b2272
 
 /***/ }),
 
-/***/ "./images/dieWhite5.png":
+/***/ "./assets/dieWhite5.png":
 /*!******************************!*\
-  !*** ./images/dieWhite5.png ***!
+  !*** ./assets/dieWhite5.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -295,9 +295,9 @@ module.exports = __webpack_require__.p + "images/47a1e64f69c4ca84dd1a26e9ed5727c
 
 /***/ }),
 
-/***/ "./images/dieWhite6.png":
+/***/ "./assets/dieWhite6.png":
 /*!******************************!*\
-  !*** ./images/dieWhite6.png ***!
+  !*** ./assets/dieWhite6.png ***!
   \******************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
@@ -306,9 +306,9 @@ module.exports = __webpack_require__.p + "images/11cc24ab8aebcf191108f3bead767af
 
 /***/ }),
 
-/***/ "./images/minus-circle-solid.svg":
+/***/ "./assets/minus-circle-solid.svg":
 /*!***************************************!*\
-  !*** ./images/minus-circle-solid.svg ***!
+  !*** ./assets/minus-circle-solid.svg ***!
   \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -317,9 +317,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minu
 
 /***/ }),
 
-/***/ "./images/minus-solid.svg":
+/***/ "./assets/minus-solid.svg":
 /*!********************************!*\
-  !*** ./images/minus-solid.svg ***!
+  !*** ./assets/minus-solid.svg ***!
   \********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -328,9 +328,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"minu
 
 /***/ }),
 
-/***/ "./images/plus-circle-solid.svg":
+/***/ "./assets/plus-circle-solid.svg":
 /*!**************************************!*\
-  !*** ./images/plus-circle-solid.svg ***!
+  !*** ./assets/plus-circle-solid.svg ***!
   \**************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -339,9 +339,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus
 
 /***/ }),
 
-/***/ "./images/plus-solid.svg":
+/***/ "./assets/plus-solid.svg":
 /*!*******************************!*\
-  !*** ./images/plus-solid.svg ***!
+  !*** ./assets/plus-solid.svg ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -350,9 +350,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"plus
 
 /***/ }),
 
-/***/ "./images/redo-solid.svg":
+/***/ "./assets/redo-solid.svg":
 /*!*******************************!*\
-  !*** ./images/redo-solid.svg ***!
+  !*** ./assets/redo-solid.svg ***!
   \*******************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -361,9 +361,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"redo
 
 /***/ }),
 
-/***/ "./images/times-circle-solid.svg":
+/***/ "./assets/times-circle-solid.svg":
 /*!***************************************!*\
-  !*** ./images/times-circle-solid.svg ***!
+  !*** ./assets/times-circle-solid.svg ***!
   \***************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -372,9 +372,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"time
 
 /***/ }),
 
-/***/ "./images/user-cog-light.svg":
+/***/ "./assets/user-cog-light.svg":
 /*!***********************************!*\
-  !*** ./images/user-cog-light.svg ***!
+  !*** ./assets/user-cog-light.svg ***!
   \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -383,9 +383,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"user
 
 /***/ }),
 
-/***/ "./images/user-cog-solid.svg":
+/***/ "./assets/user-cog-solid.svg":
 /*!***********************************!*\
-  !*** ./images/user-cog-solid.svg ***!
+  !*** ./assets/user-cog-solid.svg ***!
   \***********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -394,9 +394,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"user
 
 /***/ }),
 
-/***/ "./images/users-cog-light.svg":
+/***/ "./assets/users-cog-light.svg":
 /*!************************************!*\
-  !*** ./images/users-cog-light.svg ***!
+  !*** ./assets/users-cog-light.svg ***!
   \************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -405,9 +405,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"user
 
 /***/ }),
 
-/***/ "./images/users-cog-solid.svg":
+/***/ "./assets/users-cog-solid.svg":
 /*!************************************!*\
-  !*** ./images/users-cog-solid.svg ***!
+  !*** ./assets/users-cog-solid.svg ***!
   \************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -416,9 +416,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fas\" data-icon=\"user
 
 /***/ }),
 
-/***/ "./images/users-light.svg":
+/***/ "./assets/users-light.svg":
 /*!********************************!*\
-  !*** ./images/users-light.svg ***!
+  !*** ./assets/users-light.svg ***!
   \********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -427,9 +427,9 @@ module.exports = "<svg aria-hidden=\"true\" data-prefix=\"fal\" data-icon=\"user
 
 /***/ }),
 
-/***/ "./images/users-solid.svg":
+/***/ "./assets/users-solid.svg":
 /*!********************************!*\
-  !*** ./images/users-solid.svg ***!
+  !*** ./assets/users-solid.svg ***!
   \********************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
@@ -2243,40 +2243,40 @@ window.onload = function () {
 
 Object.defineProperty(exports, "__esModule", { value: true });
 var ICONS = {
-    "plus": __webpack_require__(/*! ./../images/plus-solid.svg */ "./images/plus-solid.svg"),
-    "minus": __webpack_require__(/*! ./../images/minus-solid.svg */ "./images/minus-solid.svg"),
-    "plus-circle": __webpack_require__(/*! ./../images/plus-circle-solid.svg */ "./images/plus-circle-solid.svg"),
-    "minus-circle": __webpack_require__(/*! ./../images/minus-circle-solid.svg */ "./images/minus-circle-solid.svg"),
-    "reset": __webpack_require__(/*! ./../images/redo-solid.svg */ "./images/redo-solid.svg"),
-    "remove": __webpack_require__(/*! ./../images/times-circle-solid.svg */ "./images/times-circle-solid.svg"),
-    "dice": __webpack_require__(/*! ./../images/dice-light.svg */ "./images/dice-light.svg"),
-    "dice-focus": __webpack_require__(/*! ./../images/dice-solid.svg */ "./images/dice-solid.svg"),
-    "players": __webpack_require__(/*! ./../images/users-light.svg */ "./images/users-light.svg"),
-    "players-focus": __webpack_require__(/*! ./../images/users-solid.svg */ "./images/users-solid.svg"),
-    "counter": __webpack_require__(/*! ./../images/abacus-light.svg */ "./images/abacus-light.svg"),
-    "counter-focus": __webpack_require__(/*! ./../images/abacus-solid.svg */ "./images/abacus-solid.svg"),
-    "random": __webpack_require__(/*! ./../images/calculator-light.svg */ "./images/calculator-light.svg"),
-    "random-focus": __webpack_require__(/*! ./../images/calculator-solid.svg */ "./images/calculator-solid.svg"),
-    "coin": __webpack_require__(/*! ./../images/coins-light.svg */ "./images/coins-light.svg"),
-    "coin-focus": __webpack_require__(/*! ./../images/coins-solid.svg */ "./images/coins-solid.svg"),
-    "single": __webpack_require__(/*! ./../images/user-cog-light.svg */ "./images/user-cog-light.svg"),
-    "single-focus": __webpack_require__(/*! ./../images/user-cog-solid.svg */ "./images/user-cog-solid.svg"),
-    "multiplayer": __webpack_require__(/*! ./../images/users-cog-light.svg */ "./images/users-cog-light.svg"),
-    "multiplayer-focus": __webpack_require__(/*! ./../images/users-cog-solid.svg */ "./images/users-cog-solid.svg"),
+    "plus": __webpack_require__(/*! ./../assets/plus-solid.svg */ "./assets/plus-solid.svg"),
+    "minus": __webpack_require__(/*! ./../assets/minus-solid.svg */ "./assets/minus-solid.svg"),
+    "plus-circle": __webpack_require__(/*! ./../assets/plus-circle-solid.svg */ "./assets/plus-circle-solid.svg"),
+    "minus-circle": __webpack_require__(/*! ./../assets/minus-circle-solid.svg */ "./assets/minus-circle-solid.svg"),
+    "reset": __webpack_require__(/*! ./../assets/redo-solid.svg */ "./assets/redo-solid.svg"),
+    "remove": __webpack_require__(/*! ./../assets/times-circle-solid.svg */ "./assets/times-circle-solid.svg"),
+    "dice": __webpack_require__(/*! ./../assets/dice-light.svg */ "./assets/dice-light.svg"),
+    "dice-focus": __webpack_require__(/*! ./../assets/dice-solid.svg */ "./assets/dice-solid.svg"),
+    "players": __webpack_require__(/*! ./../assets/users-light.svg */ "./assets/users-light.svg"),
+    "players-focus": __webpack_require__(/*! ./../assets/users-solid.svg */ "./assets/users-solid.svg"),
+    "counter": __webpack_require__(/*! ./../assets/abacus-light.svg */ "./assets/abacus-light.svg"),
+    "counter-focus": __webpack_require__(/*! ./../assets/abacus-solid.svg */ "./assets/abacus-solid.svg"),
+    "random": __webpack_require__(/*! ./../assets/calculator-light.svg */ "./assets/calculator-light.svg"),
+    "random-focus": __webpack_require__(/*! ./../assets/calculator-solid.svg */ "./assets/calculator-solid.svg"),
+    "coin": __webpack_require__(/*! ./../assets/coins-light.svg */ "./assets/coins-light.svg"),
+    "coin-focus": __webpack_require__(/*! ./../assets/coins-solid.svg */ "./assets/coins-solid.svg"),
+    "single": __webpack_require__(/*! ./../assets/user-cog-light.svg */ "./assets/user-cog-light.svg"),
+    "single-focus": __webpack_require__(/*! ./../assets/user-cog-solid.svg */ "./assets/user-cog-solid.svg"),
+    "multiplayer": __webpack_require__(/*! ./../assets/users-cog-light.svg */ "./assets/users-cog-light.svg"),
+    "multiplayer-focus": __webpack_require__(/*! ./../assets/users-cog-solid.svg */ "./assets/users-cog-solid.svg"),
 };
 var IMAGES = {
-    "white1": __webpack_require__(/*! ./../images/dieWhite1.png */ "./images/dieWhite1.png"),
-    "white2": __webpack_require__(/*! ./../images/dieWhite2.png */ "./images/dieWhite2.png"),
-    "white3": __webpack_require__(/*! ./../images/dieWhite3.png */ "./images/dieWhite3.png"),
-    "white4": __webpack_require__(/*! ./../images/dieWhite4.png */ "./images/dieWhite4.png"),
-    "white5": __webpack_require__(/*! ./../images/dieWhite5.png */ "./images/dieWhite5.png"),
-    "white6": __webpack_require__(/*! ./../images/dieWhite6.png */ "./images/dieWhite6.png"),
-    "red1": __webpack_require__(/*! ./../images/dieRed1.png */ "./images/dieRed1.png"),
-    "red2": __webpack_require__(/*! ./../images/dieRed2.png */ "./images/dieRed2.png"),
-    "red3": __webpack_require__(/*! ./../images/dieRed3.png */ "./images/dieRed3.png"),
-    "red4": __webpack_require__(/*! ./../images/dieRed4.png */ "./images/dieRed4.png"),
-    "red5": __webpack_require__(/*! ./../images/dieRed5.png */ "./images/dieRed5.png"),
-    "red6": __webpack_require__(/*! ./../images/dieRed6.png */ "./images/dieRed6.png"),
+    "white1": __webpack_require__(/*! ./../assets/dieWhite1.png */ "./assets/dieWhite1.png"),
+    "white2": __webpack_require__(/*! ./../assets/dieWhite2.png */ "./assets/dieWhite2.png"),
+    "white3": __webpack_require__(/*! ./../assets/dieWhite3.png */ "./assets/dieWhite3.png"),
+    "white4": __webpack_require__(/*! ./../assets/dieWhite4.png */ "./assets/dieWhite4.png"),
+    "white5": __webpack_require__(/*! ./../assets/dieWhite5.png */ "./assets/dieWhite5.png"),
+    "white6": __webpack_require__(/*! ./../assets/dieWhite6.png */ "./assets/dieWhite6.png"),
+    "red1": __webpack_require__(/*! ./../assets/dieRed1.png */ "./assets/dieRed1.png"),
+    "red2": __webpack_require__(/*! ./../assets/dieRed2.png */ "./assets/dieRed2.png"),
+    "red3": __webpack_require__(/*! ./../assets/dieRed3.png */ "./assets/dieRed3.png"),
+    "red4": __webpack_require__(/*! ./../assets/dieRed4.png */ "./assets/dieRed4.png"),
+    "red5": __webpack_require__(/*! ./../assets/dieRed5.png */ "./assets/dieRed5.png"),
+    "red6": __webpack_require__(/*! ./../assets/dieRed6.png */ "./assets/dieRed6.png"),
 };
 var Assets = (function () {
     function Assets() {

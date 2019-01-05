@@ -4,7 +4,6 @@
   "description": "",
   "dependencies": {
     "css-loader": "^1.0.0",
-    "node-sass": "^4.9.3",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
     "webpack": "^4.18.1",
@@ -17,6 +16,7 @@
     "file-loader": "^2.0.0",
     "image-webpack-loader": "^4.3.1",
     "mithril": "^1.1.6",
+    "node-sass": "^4.11.0",
     "svg-inline-loader": "^0.8.0",
     "ts-loader": "^5.1.1",
     "typescript": "^3.0.3"
